@@ -90,7 +90,7 @@ span {
   filter: blur(20px);
 }
 
-.card.active .on-hover {
+.card .on-hover {
   background-color: white;
   width: 300px;
   height: 250px;
